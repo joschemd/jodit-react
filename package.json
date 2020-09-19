@@ -16,7 +16,7 @@
     "rte"
   ],
   "dependencies": {
-    "jodit": "^3.4.26"
+    "jodit": "git+https://github.com/joschemd/jodit.git"
   },
   "peerDependencies": {
     "react": "~0.14 || ^15.0.0 || ^16.0.0",
